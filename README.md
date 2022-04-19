@@ -10,7 +10,7 @@ The UX designer provided you with the following user interface mockups:
 
 ### Mobile view
 
-![](images/ring_1.png)
+![](images/Thinkfulbnb-mobile.png)
 
 ### Desktop view
 
