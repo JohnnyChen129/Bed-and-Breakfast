@@ -14,7 +14,7 @@ The UX designer provided you with the following user interface mockups:
 
 ### Desktop view
 
-![](images/ring_2.png)
+![](navigation-desktop.png)
 
 ### Existing files
 
@@ -44,7 +44,7 @@ Edit the `index.html` and `style.css` as needed to achieve the following require
 
 - The logo should stack on top of the menu links, which are aligned horizontally, as follows:
 
-![Navigation mobile](./images/ring_3.png)
+![Navigation mobile](./navigation-mobile.png)
 
 - **Single-page navigation**: Modify the navigation links so that clicking on each link will take the user to the corresponding sections on the page, as follows:
 
