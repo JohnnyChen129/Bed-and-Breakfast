@@ -109,6 +109,6 @@ Within the media query, write CSS to create the following designs for desktop:
 
 - The "Ideas" images should be displayed in a 2 by 2 grid (see the desktop design shared above).
 
-- The items in the "Want to Become a Thinkful Host?" section should be horizontally aligned. The paragraph content should be vertically centered and be as wide as each image item, like this:
+- The items in the "Want to Become a Thinkful Host?" section should be horizontally aligned. The paragraph content should be vertically centered and be as wide as each image item, like this: 
 
 ![Host desktop](./images/host-desktop.png)
